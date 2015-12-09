@@ -1,0 +1,20 @@
+// Color Variables
+$color-gray: #484848;
+$color-turquoise: #5199A8;
+
+body {
+  color: $color-gray;
+  font-family:'Raleway', sans-serif;
+  padding: 10px;
+  margin: 10px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family:'Raleway', sans-serif;
+}
+
+nav.navbar-inverse {
+  background: rgba(0, 0, 0, 0.5);
+  border: none;
+}
+

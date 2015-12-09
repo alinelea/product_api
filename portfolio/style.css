@@ -1,0 +1,14 @@
+body {
+  color: #484848;
+  font-family: 'Raleway', sans-serif;
+  padding: 10px;
+  margin: 10px; }
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Raleway', sans-serif; }
+
+nav.navbar-inverse {
+  background: rgba(0, 0, 0, 0.5);
+  border: none; }
+
+/*# sourceMappingURL=style.css.map */
